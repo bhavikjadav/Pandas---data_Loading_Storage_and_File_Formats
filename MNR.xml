@@ -1,0 +1,18 @@
+<INDICATOR>
+    <INDICATOR_SEQ>373889</INDICATOR_SEQ>
+    <PARENT_SEQ></PARENT_SEQ>
+    <AGENCY_NAME>METRO NORTH RAILROAD</AGENCY_NAME>
+    <INDICATOR_NAME>Escalator Availability</INDICATOR_NAME>
+    <DESCRIPTION>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</DESCRIPTION>
+    <PERIOD_YEAR>2011</PERIOD_YEAR>
+    <PERIOD_MONTH>12</PERIOD_MONTH>
+    <CATEGORY>Service Indicators</CATEGORY>
+    <FREQUENCY>M</FREQUENCY>
+    <DESIRED_CHANGE>U</DESIRED_CHANGE>
+    <INDICATOR_UNIT>%</INDICATOR_UNIT>
+    <DECIMAL_PLACES>1</DECIMAL_PLACES>
+    <TYD_TARGET>97.00</TYD_TARGET>
+    <YTD_ACTUAL></YTD_ACTUAL>
+    <MONTHLY_TARGET>97.00</MONTHLY_TARGET>
+    <MONTHLY_ACTUAL></MONTHLY_ACTUAL>
+</INDICATOR>
